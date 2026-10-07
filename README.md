@@ -1,6 +1,6 @@
 # Atlântica Natural - Landing Page Corporativa (Consultor Sanderson)
 
-Uma landing page moderna, responsiva e de alta conversão desenvolvida para captação de novos consultores, revendedores e clientes para a **Atlântica Natural**. 
+Uma landing page moderna, responsiva e de alta conversão desenvolvida para captação de novos consultores, revendedores e clientes para a **Atlântica Natural**.
 
 O projeto foi construído focando em performance, acessibilidade e facilidade de manutenção, utilizando tecnologias web puras sem a necessidade de processos de build complexos.
 
@@ -45,13 +45,17 @@ Como o projeto foi construído utilizando **Vanilla HTML/CSS/JS**, não há nece
 ## 📝 Como Editar as Informações
 
 ### Alterar o Número de WhatsApp
+
 Abra o arquivo `script.js` e altere a variável `whatsappNumber`. Note que o número deve conter o código do país e DDD (ex: `553588579827`). Você também pode alterar a variável `whatsappText` para mudar a mensagem padrão.
 
 ### Atualizar o Catálogo
+
 Substitua o arquivo `catalogo.pdf` dentro da pasta `assets/` por sua versão mais nova, mantendo exatamente o mesmo nome.
 
 ### Modificar Imagens
+
 Troque os arquivos dentro da pasta `assets/` certificando-se de manter os mesmos nomes, ou atualize os caminhos (caminhos no `src`) diretamente no `index.html`.
 
 ---
+
 Desenvolvido em parceria com **Yan Mworks** (Yan Digital).

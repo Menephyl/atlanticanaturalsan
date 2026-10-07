@@ -164,7 +164,7 @@ button,
   border-radius: 50%;
   aspect-ratio: 1/1;
   object-fit: contain;
-  background-color: #fff;
+  background-color: transparent;
 }
 
 .hero-content {
